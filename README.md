@@ -54,7 +54,7 @@
 <div align="center">
   <img alt="snake eating my contributions" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 <br/>
-
+  
 <h2 align="center">🤝 Let's Connect</h2>
 
 <div align="center">
@@ -78,5 +78,9 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=footer&customColorList=12" />
 </div>
+<div align="center">
+    <img scr="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif?cid=790b7611q53k1rwjmjwejnetqdson32tunmuj57jy7p5oacq&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100%">
+  </div>
+<br/>
 capsule-render.vercel.app
 
