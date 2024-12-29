@@ -48,6 +48,38 @@
 
 <h2 align="center">🚀 Current Projects</h2>
 
+
+<div align="center" style="width: 100%;">
+  <div style="margin: 10px auto;">
+    <table style="margin: auto;">
+      <tr>
+        <td style="padding: 10px;">
+        <a href="https://github.com/2vhoc/roll-call-students" title="Sun-And-Moon">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hwangz05&repo=Sun-And-Moon&theme=jolly&border_color=61dafb&border_radius=10" style="width: auto; height: 100p;"/>
+      </a>
+        </td>
+        <td style="padding: 10px;">
+        <a href="https://github.com/2vhoc/detection-face-opencv" title="Detection Face">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=2vhoc&repo=detection-face-opencv&theme=cobalt2&border_color=61dafb&border_radius=10" style="width: auto; height: 100p;"/>
+        </td>
+      </tr>
+    </table>
+    <table style="margin: auto;">
+      <tr>
+      <td style="padding: 10px;">
+        <a href="https://github.com/2vhoc/controller-finger-cv" title="Controller">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=2vhoc&repo=controller-finger-cv&theme=calm_pink&border_color=61dafb&border_radius=10" style="width: auto; height: 100p;"/>
+        </td>
+        <td style="padding: 10px;">
+        <a href="https://github.com/2vhoc/tensorflow-recognition-birds" title="Recognition">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=2vhoc&repo=tensorflow-recognition-birds&theme=shades-of-purple&border_color=61dafb&border_radius=10" style="width: auto; height: 100p;"/>
+      </tr>
+    </table>
+  </div>
+
+
+
+
 <div align="center">
   <a href="https://github.com/Hwangz05/Sun-And-Moon">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hwangz05&repo=project1&theme=radical&hide_border=true&bg_color=0D1117" />
