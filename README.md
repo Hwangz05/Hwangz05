@@ -79,7 +79,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=footer&customColorList=12" />
 </div>
 <div align="center">
-    <img scr="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif?cid=790b7611q53k1rwjmjwejnetqdson32tunmuj57jy7p5oacq&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100%">
+    <img scr="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="100%">
   </div>
 <br/>
 capsule-render.vercel.app
