@@ -1,13 +1,15 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Nguyen%Van%20Hoang&fontSize=90&color=gradient&customColorList=12" />
 </div>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7D433&center=true&vCenter=true&random=false&width=435&lines=I'm+Hoang;Full+Stack+Developer;Tech+Enthusiast" />
 </h1>
 
+<br><br>
 <div align="center">
-  <img height="65%" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
+  <img height="50%" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 </div>
 
 <br/>
@@ -143,7 +145,8 @@
   </tr>
 </table>
 
-<h2></h2>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<br><br>
 
 <div align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d0cfe7d1-0b8c-4e4a-9a66-875290ba6065" width="35%">
