@@ -103,15 +103,15 @@
 <table>
   <tr >
     <td  align="center" width="300" >
-      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW05a2k0Mno2Z2d5NHYzYnlibnBjMmx4MGlpZDM1Mms2eW9zNDNmeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nsmCk4Ruq7pIc/giphy.gif" width="250" heigh = "130"  > 
+      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW05a2k0Mno2Z2d5NHYzYnlibnBjMmx4MGlpZDM1Mms2eW9zNDNmeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nsmCk4Ruq7pIc/giphy.gif" width="235" heigh = "130"  > 
      </br align="center"> Sword Art Online 
     </td>
     <td align="center" width="300" heigh = "200" >
-      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGx4ZTk4enJzNGk5Mm16emY2cmczeGxuMjFtNmgzZ3lyMGk2bjZ4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11D0XkJInM2ssU/giphy.gif" width="298" heigh = "200"  >
+      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGx4ZTk4enJzNGk5Mm16emY2cmczeGxuMjFtNmgzZ3lyMGk2bjZ4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11D0XkJInM2ssU/giphy.gif" width="283" heigh = "200"  >
       </br align="center"> Hàng xóm của tôi là Totoro
     </td>
-    <td align="center" width="300">
-      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTd1OXRucGd3YnQyaXV2MTdhbzhwMnJmeW84NzN2M25pajU5ZGlybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uWwg8tjEm17Co/giphy.gif" width="230" heigh = "130"  >
+    <td align="center" width="272">
+      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTd1OXRucGd3YnQyaXV2MTdhbzhwMnJmeW84NzN2M25pajU5ZGlybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uWwg8tjEm17Co/giphy.gif" width="220" heigh = "130"  >
       </br align="center"> Cô bé người cá Ponyo
     </td>
   </tr>
