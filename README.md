@@ -3,11 +3,11 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7D433&center=true&vCenter=true&random=false&width=435&lines=I'm+Hwangz;Full+Stack+Developer;Tech+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7D433&center=true&vCenter=true&random=false&width=435&lines=I'm+Hoang;Full+Stack+Developer;Tech+Enthusiast" />
 </h1>
 
 <div align="center">
-  <img height="200px" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
+  <img height="65%" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 </div>
 
 <br/>
