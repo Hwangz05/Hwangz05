@@ -64,7 +64,7 @@
 </div>
 
 <br/>
-<h2 align="center">🌟  I am Chill Guy </h2> 
+<h2> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="100">&nbsp;  I am Chill Guy </h2> 
 <table>
   <tr >
     <td align="center" width="350" >
@@ -79,16 +79,8 @@
   </tr>
 </table>
 
+<h2 align="center">🤝 Connect With Me <img src="https://user-images.githubusercontent.com/74038190/216654116-d0e8d227-7977-4edc-8d36-63461bda9503.gif" width="40" /> </h2>
 
-    
-
-<h2 align="center">🌟 Page Not Found</h2>
-
-<div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d0cfe7d1-0b8c-4e4a-9a66-875290ba6065" width="35%">
-<br/>
- 
-<h2 align="center">🤝 Connect With Me</h2>
 
 <div align="center">
   <a href="https://www.facebook.com/profile.php?id=100069877600347&mibextid=ZbWKwL">
@@ -105,6 +97,11 @@
     <img src="https://user-images.githubusercontent.com/74038190/235294006-04e22871-2943-4626-9a99-e1d416cbda26.gif" width="100">
   </a>
 </div>
+<h2></h2>
+<div align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d0cfe7d1-0b8c-4e4a-9a66-875290ba6065" width="35%">
+<br/>
+ 
 <img src="https://raw.githubusercontent.com/Hwangz05/Hwangz05/master/svg/rainbow.svg" alt="Example of SVG" width="100%">
 
 <img src="https://raw.githubusercontent.com/Hwangz05/Hwangz05/master/svg/twolight.svg" alt="Example of SVG" width="100%">
