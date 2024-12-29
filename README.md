@@ -81,10 +81,10 @@
     <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100">
   </a>
    </a>
-  <a href="mailto:hwangz05@example.com">
+  <a href="https://discord.com/channels/@me">
   <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="100">
   </a>
-  <a href="https://twitter.com/hwangz05">
+  <a href="https://www.tiktok.com/@nvhwangz05?is_from_webapp=1&sender_device=pc">
     <img src="https://user-images.githubusercontent.com/74038190/235294006-04e22871-2943-4626-9a99-e1d416cbda26.gif" width="100">
   </a>
 </div>
