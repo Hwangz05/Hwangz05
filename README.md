@@ -65,6 +65,7 @@
 
 <br/>
 <h2> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="100">&nbsp;  I am Chill Guy </h2> 
+
 <table>
   <tr >
     <td  align="center width="300"  >
@@ -98,6 +99,26 @@
   </a>
 </div>
 <h2></h2>
+<h2 align="center"> My Favorite Anime </h2>
+<table>
+  <tr >
+    <td  align="center" width="300" >
+      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW05a2k0Mno2Z2d5NHYzYnlibnBjMmx4MGlpZDM1Mms2eW9zNDNmeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nsmCk4Ruq7pIc/giphy.gif" width="250" heigh = "130"  > 
+     </br align="center"> Sword Art Online 
+    </td>
+    <td align="center" width="300" heigh = "200" >
+      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGx4ZTk4enJzNGk5Mm16emY2cmczeGxuMjFtNmgzZ3lyMGk2bjZ4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11D0XkJInM2ssU/giphy.gif" width="298" heigh = "200"  >
+      </br align="center"> Hàng xóm của tôi là Totoro
+    </td>
+    <td align="center" width="300">
+      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTd1OXRucGd3YnQyaXV2MTdhbzhwMnJmeW84NzN2M25pajU5ZGlybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uWwg8tjEm17Co/giphy.gif" width="230" heigh = "130"  >
+      </br align="center"> Cô bé người cá Ponyo
+    </td>
+  </tr>
+</table>
+
+<h2></h2>
+
 <div align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d0cfe7d1-0b8c-4e4a-9a66-875290ba6065" width="35%">
 <br/>
