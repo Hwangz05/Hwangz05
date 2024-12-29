@@ -78,21 +78,9 @@
       </tr>
     </table>
   </div>
-
-
-
-
-<div align="center">
-  <a href="https://github.com/Hwangz05/Sun-And-Moon">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hwangz05&repo=project1&theme=radical&hide_border=true&bg_color=0D1117" />
-  </a>
-  <a href="https://github.com/Hwangz05/Login-Registrantion">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hwangz05&repo=project2&theme=radical&hide_border=true&bg_color=0D1117" />
-  </a>
-</div>
-
 <br/>
-<h2> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="100">&nbsp;  I am Chill Guy </h2> 
+
+<h2> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="90"> <br/> I am Chill Guy <br/></h2>
 
 <table>
   <tr >
@@ -126,7 +114,8 @@
     <img src="https://user-images.githubusercontent.com/74038190/235294006-04e22871-2943-4626-9a99-e1d416cbda26.gif" width="100">
   </a>
 </div>
-<h2></h2>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<br><br>
 <h2 align="center"> My Favorite Anime </h2>
 <table>
   <tr >
@@ -150,11 +139,6 @@
 
 <div align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d0cfe7d1-0b8c-4e4a-9a66-875290ba6065" width="35%">
-<br/>
-
-<img src="https://raw.githubusercontent.com/Hwangz05/Hwangz05/master/svg/rainbow.svg" alt="Example of SVG" width="100%">
-
-<img src="https://raw.githubusercontent.com/Hwangz05/Hwangz05/master/svg/twolight.svg" alt="Example of SVG" width="100%">
 <br/>
 
 
