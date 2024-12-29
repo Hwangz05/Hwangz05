@@ -67,13 +67,13 @@
 <h2> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="100">&nbsp;  I am Chill Guy </h2> 
 <table>
   <tr >
-    <td align="center" width="350" >
+    <td align="center" width="200" >
       <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="300" heigh = "250"  >   
     </td>
-    <td align="center" width="350">
+    <td align="center" width="200">
       <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="300" heigh = "250"  >
     </td>
-    <td align="center" width="350">
+    <td align="center" width="200">
       <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="300" heigh = "250"  >
     </td>
   </tr>
@@ -101,7 +101,7 @@
 <div align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d0cfe7d1-0b8c-4e4a-9a66-875290ba6065" width="35%">
 <br/>
- 
+
 <img src="https://raw.githubusercontent.com/Hwangz05/Hwangz05/master/svg/rainbow.svg" alt="Example of SVG" width="100%">
 
 <img src="https://raw.githubusercontent.com/Hwangz05/Hwangz05/master/svg/twolight.svg" alt="Example of SVG" width="100%">
